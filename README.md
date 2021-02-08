@@ -2,4 +2,4 @@
 
 `RNN.ipynb`
 
-- 前処理から Attention までを実装する。ほぼRNN系。
+- Simple RNN から Attention までのモデル定義を実装する。ほぼRNN系。
