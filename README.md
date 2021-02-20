@@ -1,6 +1,6 @@
 # 深層学習モデルを自力で実装出来るようにする
 
-NN-tutorial/
+`NN-tutorial/` フォルダ
 
 [optimization.ipynb](https://github.com/Tonoyama/Keras-Study/blob/master/NN-tutorial/optimization.ipynb)
 
@@ -14,4 +14,17 @@ NN-tutorial/
 
 - Simple RNN から Attention までのモデル定義を実装する。ほぼRNN系。
 
+---
+
 [non-supuervised.ipynb](https://github.com/Tonoyama/Keras-Study/blob/master/non-supervised.ipynb)
+
+クラスタリング
+- k平均法(k-means)
+  - エルボー法
+  - シルエット法
+- k近傍法(k-NN)
+- DBSCAN(密度準拠クラスタリング)
+
+主成分分析(PCA)
+- 主成分分析(PCA, Principal Component Analysis)
+- カーネル主成分分析
