@@ -28,3 +28,6 @@
 主成分分析(PCA)
 - 主成分分析(PCA, Principal Component Analysis)
 - カーネル主成分分析
+
+
+編集:重谷
